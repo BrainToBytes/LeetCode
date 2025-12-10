@@ -14,11 +14,11 @@ class Solution {
            {
                 temp.add(num);
            }
-        //    ans.add(temp);
-        //         return; 
+           ans.add(temp);
+                return; 
 
-            ans.add(new ArrayList<>(temp));
-            return;
+            // ans.add(new ArrayList<>(temp));
+            // return;
         }
 
         for(int i=index; i<nums.length; i++)
