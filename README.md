@@ -37,6 +37,7 @@
 | [0169-majority-element](https://github.com/BharathHM1818/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/BharathHM1818/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/BharathHM1818/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/BharathHM1818/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/BharathHM1818/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/BharathHM1818/LeetCode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/BharathHM1818/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -164,12 +165,14 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/BharathHM1818/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/BharathHM1818/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BharathHM1818/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/BharathHM1818/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/BharathHM1818/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/BharathHM1818/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Trie
 |  |
@@ -201,4 +204,16 @@
 | [0046-permutations](https://github.com/BharathHM1818/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/BharathHM1818/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BharathHM1818/LeetCode/tree/master/0090-subsets-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/BharathHM1818/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/BharathHM1818/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/BharathHM1818/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
